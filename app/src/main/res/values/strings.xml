@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">EXP.1</string>
     <string name="title">中山大学学生信息系统</string>
+    <string name="num">学号:</string>
+    <string name="pass">密码:</string>
+    <string name="pnum">请输入学号</string>
+    <string name="ppass">请输入密码</string>
+    <string name="stu">学生</string>
+    <string name="tea">教职工</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
 </resources>
